@@ -6,7 +6,7 @@ https://jimcoincore.org
 For an immediately usable, binary version of the Jimcoin Core software, see
 https://jimcoincore.org/en/download/.
 
-Further information about Bitcoin Core is available in the [doc folder](/doc).
+Further information about Jimcoin Core is available in the [doc folder](/doc).
 
 What is jimcoin?
 ----------------
